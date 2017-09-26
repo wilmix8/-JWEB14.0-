@@ -23,3 +23,12 @@ c)  J$JSAUCER-SCROLL  : Better  than Scroll
 
 
 d) J$SLING 
+
+
+
+
+Note:  The  features   and  advantages  are   hidden  from  illegal  hackers
+
+from   copying  it's  features  and  implementing  it ...
+
+Note:  This  part  of   Tutorial  is  not  opensource...

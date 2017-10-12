@@ -24,7 +24,7 @@ c)  J$JSAUCER-SCROLL  : Better  than Scroll
 
 d) J$SLING 
 
-
+e) J$MAGENT :  used  only  in  Linux platform.
 
 
 Note:  The  features   and  advantages  are   hidden  from  illegal  hackers
